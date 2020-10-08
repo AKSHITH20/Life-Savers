@@ -2,8 +2,8 @@ var compPaddle,playerPaddle, Ball;
 var bottomEdge,topEdge;
 
 function preload() {
-  compPaddleimg=loadImage("Sprites/Doctor.png");
-  playerPaddleimg=loadImage("Sprites/Boy.png");
+  compPaddleimg=loadImage("Doctor.png");
+  playerPaddleimg=loadImage("Boy.png");
 }
 
 function setup() {  
